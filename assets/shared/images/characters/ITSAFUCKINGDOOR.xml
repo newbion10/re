@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ITSAFUCKINGDOOR.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CloseDadDoor0000" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0001" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0002" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0003" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0004" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0005" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0006" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0007" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0008" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0009" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0010" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0011" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0012" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="CloseDadDoor0013" x="0" y="0" width="545" height="851"/>
+	<SubTexture name="DadDoor0000" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0001" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0002" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0003" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0004" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0005" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0006" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0007" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0008" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0009" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0010" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0011" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0012" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0013" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0014" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0015" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0016" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0017" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0018" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0019" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0020" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0021" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0022" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0023" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0024" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0025" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0026" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0027" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0028" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0029" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0030" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0031" x="545" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0032" x="1090" y="0" width="551" height="851" frameX="-483" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0033" x="1090" y="0" width="551" height="851" frameX="-483" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0034" x="1641" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0035" x="1641" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0036" x="2186" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0037" x="2186" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0038" x="2731" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0039" x="2731" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0040" x="3276" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0041" x="3276" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0042" x="3276" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0043" x="3276" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0044" x="3276" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0045" x="3276" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0046" x="3276" y="0" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0047" x="0" y="851" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0048" x="0" y="851" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0049" x="545" y="851" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0050" x="545" y="851" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0051" x="1090" y="851" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0052" x="1635" y="851" width="545" height="855" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0053" x="2180" y="851" width="545" height="855" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0054" x="2725" y="851" width="562" height="867" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0055" x="2725" y="851" width="562" height="867" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0056" x="3287" y="851" width="689" height="897" frameX="-345" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0057" x="3287" y="851" width="689" height="897" frameX="-345" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0058" x="0" y="1748" width="1031" height="963" frameX="-3" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0059" x="0" y="1748" width="1031" height="963" frameX="-3" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0060" x="1031" y="1748" width="1034" height="963" frameX="0" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0061" x="1031" y="1748" width="1034" height="963" frameX="0" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0062" x="1031" y="1748" width="1034" height="963" frameX="0" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0063" x="1031" y="1748" width="1034" height="963" frameX="0" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0064" x="1031" y="1748" width="1034" height="963" frameX="0" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0065" x="1031" y="1748" width="1034" height="963" frameX="0" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0066" x="1031" y="1748" width="1034" height="963" frameX="0" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0067" x="1031" y="1748" width="1034" height="963" frameX="0" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0068" x="1031" y="1748" width="1034" height="963" frameX="0" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="DadDoor0069" x="1031" y="1748" width="1034" height="963" frameX="0" frameY="0" frameWidth="1051" frameHeight="963"/>
+</TextureAtlas>

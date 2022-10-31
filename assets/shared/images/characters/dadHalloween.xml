@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dadHalloween.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing Note DOWN0000" x="0" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0001" x="0" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0002" x="1034" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0003" x="1034" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0004" x="2068" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0005" x="2068" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0006" x="3102" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0007" x="3102" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0008" x="3102" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0009" x="3102" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0010" x="3102" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0011" x="3102" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0012" x="3102" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note DOWN0013" x="3102" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="4136" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0001" x="4136" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0002" x="5170" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0003" x="5170" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0004" x="6204" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0005" x="6204" y="0" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0006" x="0" y="963" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0007" x="0" y="963" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0008" x="0" y="963" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0009" x="0" y="963" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0010" x="0" y="963" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0011" x="0" y="963" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0012" x="0" y="963" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note LEFT0013" x="0" y="963" width="1034" height="963"/>
+	<SubTexture name="Dad Sing Note UP0000" x="1034" y="963" width="1034" height="964"/>
+	<SubTexture name="Dad Sing Note UP0001" x="1034" y="963" width="1034" height="964"/>
+	<SubTexture name="Dad Sing Note UP0002" x="2068" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad Sing Note UP0003" x="2068" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad Sing Note UP0004" x="3102" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad Sing Note UP0005" x="3102" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad Sing Note UP0006" x="4136" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad Sing Note UP0007" x="4136" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad Sing Note UP0008" x="4136" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad Sing Note UP0009" x="4136" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad Sing Note UP0010" x="4136" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad Sing Note UP0011" x="4136" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad Sing Note UP0012" x="4136" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad Sing Note UP0013" x="4136" y="963" width="1034" height="963" frameX="0" frameY="-1" frameWidth="1034" frameHeight="964"/>
+	<SubTexture name="Dad idle dance0000" x="5170" y="963" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="Dad idle dance0001" x="6204" y="963" width="1036" height="963"/>
+	<SubTexture name="Dad idle dance0002" x="6204" y="963" width="1036" height="963"/>
+	<SubTexture name="Dad idle dance0003" x="0" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="Dad idle dance0004" x="0" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="Dad idle dance0005" x="1034" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="Dad idle dance0006" x="1034" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="Dad idle dance0007" x="2068" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="Dad idle dance0008" x="2068" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="Dad idle dance0009" x="2068" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="Dad idle dance0010" x="2068" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="Dad idle dance0011" x="2068" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="Dad idle dance0012" x="2068" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="Dad idle dance0013" x="2068" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1036" frameHeight="963"/>
+	<SubTexture name="SlamDoor0000" x="3102" y="1927" width="1034" height="963" frameX="0" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0001" x="4136" y="1927" width="1031" height="963" frameX="-3" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0002" x="5167" y="1927" width="689" height="897" frameX="-345" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0003" x="5856" y="1927" width="689" height="897" frameX="-345" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0004" x="6545" y="1927" width="562" height="867" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0005" x="6545" y="1927" width="562" height="867" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0006" x="7107" y="1927" width="545" height="855" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0007" x="0" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0008" x="0" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0009" x="0" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0010" x="0" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0011" x="0" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0012" x="0" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0013" x="0" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0014" x="545" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0015" x="545" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0016" x="1090" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0017" x="1090" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0018" x="1635" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0019" x="1635" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0020" x="2180" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0021" x="2180" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0022" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0023" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0024" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0025" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0026" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0027" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0028" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0029" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0030" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0031" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0032" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0033" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0034" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0035" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0036" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0037" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0038" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0039" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0040" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0041" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0042" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0043" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0044" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0045" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0046" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0047" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0048" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0049" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0050" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0051" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0052" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0053" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0054" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0055" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0056" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0057" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0058" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0059" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0060" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0061" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0062" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0063" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0064" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0065" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0066" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0067" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0068" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0069" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0070" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0071" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0072" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0073" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0074" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0075" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0076" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0077" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0078" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0079" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0080" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0081" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0082" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0083" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0084" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0085" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0086" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0087" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0088" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0089" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0090" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0091" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0092" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0093" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0094" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0095" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0096" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0097" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0098" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0099" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0100" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0101" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0102" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0103" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0104" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0105" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0106" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0107" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0108" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0109" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0110" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0111" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0112" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0113" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0114" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0115" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0116" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0117" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0118" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0119" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0120" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0121" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0122" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0123" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0124" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0125" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0126" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0127" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0128" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0129" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0130" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0131" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0132" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0133" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0134" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0135" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0136" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0137" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0138" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0139" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0140" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0141" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0142" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0143" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0144" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0145" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0146" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0147" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0148" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0149" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0150" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0151" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0152" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0153" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="SlamDoor0154" x="2725" y="2890" width="545" height="851" frameX="-489" frameY="0" frameWidth="1051" frameHeight="963"/>
+	<SubTexture name="dad sing note right0000" x="3270" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0001" x="3270" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0002" x="4304" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0003" x="4304" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0004" x="5338" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0005" x="5338" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0006" x="6372" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0007" x="6372" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0008" x="6372" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0009" x="6372" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0010" x="6372" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0011" x="6372" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0012" x="6372" y="2890" width="1034" height="963"/>
+	<SubTexture name="dad sing note right0013" x="6372" y="2890" width="1034" height="963"/>
+</TextureAtlas>
