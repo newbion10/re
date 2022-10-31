@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				521,
+				110
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				521,
+				110
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				521,
+				111
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				521,
+				110
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				521,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dad sing note right"
+		},
+		{
+			"offsets": [
+				521,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "doorslam",
+			"indices": [],
+			"name": "SlamDoor"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dadHalloween",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ddhalloween",
+	"flip_x": false,
+	"healthbar_colors": [
+		172,
+		39,
+		27
+	],
+	"camera_position": [
+		80,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

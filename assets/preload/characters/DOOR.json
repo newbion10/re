@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				109
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CloseDadDoor",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				109
+			],
+			"anim": "open",
+			"fps": 24,
+			"name": "DadDoor",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ITSAFUCKINGDOOR",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ddhalloween",
+	"flip_x": false,
+	"healthbar_colors": [
+		172,
+		39,
+		27
+	],
+	"camera_position": [
+		80,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
