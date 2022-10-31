@@ -1,0 +1,50 @@
+{
+	"storyName": "happy halloween! what",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "halloweenie",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"knock knock",
+			"ddhalloween",
+			[
+				186,
+				20,
+				33
+			]
+		],
+		[
+			"endo",
+			"bones-cool",
+			[
+				195,
+				215,
+				195
+			]
+		],
+		[
+			"oculus",
+			"eyes",
+			[
+				126,
+				53,
+				75
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
